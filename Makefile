@@ -39,3 +39,6 @@ clean :
 
 makebuildir:
 	mkdir -p $(BUILDDIR)
+
+install:
+	/usr/bin/install ./bin/hello /usr/local/bin

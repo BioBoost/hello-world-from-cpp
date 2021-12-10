@@ -19,3 +19,11 @@ To run the binary, just launch the app in the `bin` dir:
 ```bash
 ./bin/hello
 ```
+
+## Global Install
+
+Want it install it as an app, then:
+
+```bash
+sudo make install
+```
